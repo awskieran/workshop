@@ -66,7 +66,7 @@ Click `File` > `New` > `Terminal` to launch a terminal in your Jupyter instance.
 Within the Terminal, run the following:
 
 ```
-cd ~ && git clone https://github.com/awskieran/workshop
+cd ~ && git clone https://github.com/kierankav/ds-aws-workshop
 ```
 
 If you see an error like the following, just re-run the command again until it works:
